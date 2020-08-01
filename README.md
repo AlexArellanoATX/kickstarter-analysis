@@ -4,8 +4,7 @@
 This analysis project looks at Kickstarter campaign data to find and visualize the relationships between Launch Dates and Funding Goals on campaign outcomes. Our client, Louise, has an interest in this information so she can structure her next Kickstarter campaign to be successful in helping her raise enough to fund her next play.  We used a dataset of over 4,000 Kickstarter campaigns run between 2009 and 2017 that include over 40 campaign subcategories and information on the goals, pledge amounts, outcomes, number of backers, launch & end dates of the campaigns among other related data.
 
  <!--  [Excel dataset image] (link to Kickstarter dataset in Excel.png)-->
-![Markdown Logo]
-(https://markdown-here.com/img/icon256.png)
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
 ### Purpose
 The purpose of this analysis project is to provide our client, Louise, actionable insight into what month she should launch her next Kickstarter campaign and an ideal fundraising goal to set for her next campaign, based on the factors successful campaigns had in the dataset of past campaigns.
