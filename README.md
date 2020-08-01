@@ -33,7 +33,7 @@ Based on our analysis we conclude the following about campaign Outcomes based on
 
 Our analysis allows us to conclude the following about campaign Outcomes based on Goals:
 
-*   Lower Goals are more attainable. The percentage of successful campaigns with Goals under $5,000 is much larger than the success rates of campaigns with higher goals, and the success rate in general drops as Goals rise, with a caveat*. Although there are a small number of campaigns with Goals between $35,000 and $45,000 that were successful, this is a very small subset (only 9 campaigns total compared to 720 campaigns with Goals of $5,000 and lower for the “Play” subcategory). Since this number of successful campaigns with Goals between $35,000 and $45,000 is so small, they may be considered outliers or not representative of Kickstarter campaigns in general and should probably not be relied on as an indicator of likelihood of success.
+*   Lower Goals are more attainable. The percentage of successful campaigns with Goals under $5,000 is much larger than the success rates of campaigns with higher goals, and the success rate in general drops as Goals rise, *with a caveat*. Although there are a small number of campaigns with Goals between $35,000 and $45,000 that were successful, this is a very small subset (only 9 campaigns total compared to 720 campaigns with Goals of $5,000 and lower for the “Play” subcategory). Since this number of successful campaigns with Goals between $35,000 and $45,000 is so small, they may be considered outliers or not representative of Kickstarter campaigns in general and should probably not be relied on as an indicator of likelihood of success.
 
 
 **Limitations of the Kickstarter dataset used for this analysis:**
