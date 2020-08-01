@@ -13,12 +13,14 @@ The purpose of this analysis project is to provide our client, Louise, actionabl
 
 ### Analysis of Outcomes Based on Launch Date
 After analyzing the dataset in Excel to understand the amount, formats and types of data included, we drilled down into which months had more Launch Dates for successful campaigns. We converted the Launch Date raw data from a Unix timestamp into a readable format, to see the successful and failed campaign data by month. Then we used Excel’s pivot table function, to filter the campaign data to only look at the ‘Theater’ Parent Category. 
-<!-- IMAGE: link to: Table & chart created to analyze Outcomes based on Goal.png-->
+![Table&Chart](./Additional_resources-Challenge1/Table&chart_created_to_visualize_Outcomes_by_campaign_launch_date.png)
+
 From this pivot table we created a line chart that visualizes the counts of successful, failed and canceled campaigns by the month of their Launch Dates. There is a clear pattern showing more Theater campaigns launched in the months of May and June were successful than those launched in any other month over the years analyzed. Theater campaigns launched in December had the fewest successful campaigns.
 
 ### Analysis of Outcomes Based on Goals
 We then looked at the Goals that the campaigns in our dataset and the relationship between these Goals and the outcomes of the campaigns. To do this we created a table of the Goals set by campaigns with a subcategory of ‘Plays’- creating several dollar-amount ranges for the Goal amounts and counting the number of campaigns in each dollar-amount range across successful, failed and canceled campaigns. We used Excel’s ‘COUNTIFS’ function to tabulate the corresponding data and calculated the percentage of each outcome versus the total number of campaigns in the ‘plays’ subcategory. 
-<!-- IMAGE: link to: Table & chart created to visualize Outcomes by campaign launch date.png-->
+![Table&Chart](./Additional_resources-Challenge1/Table&chart_created_to_analyze_Outcomes_based_on_Goal.png)
+
  We created a chart of the information in this table to visualize the percentage of successful and failed campaigns by the range of Goal set.
 
 ### Challenges and Difficulties Encountered
