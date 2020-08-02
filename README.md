@@ -35,13 +35,19 @@ Our analysis allows us to conclude the following about campaign Outcomes based o
 
 *   Lower Goals are more attainable. The percentage of successful campaigns with Goals under $5,000 is much larger than the success rates of campaigns with higher goals, and the success rate in general drops as Goals rise, *with a caveat*. Although there are a small number of campaigns with Goals between $35,000 and $45,000 that were successful, this is a very small subset (only 9 campaigns total compared to 720 campaigns with Goals of $5,000 and lower for the “Play” subcategory). Since this number of successful campaigns with Goals between $35,000 and $45,000 is so small, they may be considered outliers or not representative of Kickstarter campaigns in general and should probably not be relied on as an indicator of likelihood of success.
 
+![Table&Chart](./Additional_resources-Challenge1/Highlighting_small_sample_size.png)
+
+***Based on our analysis of the Kickstarter dataset, we recommend that Louise consider launching her next campaign in May or June and recommend that she set her fundraising Goal as low as possible, around $5,000.***
+
 
 **Limitations of the Kickstarter dataset used for this analysis:**
 
 *   Dataset is over 3 years old- which may have the effect of not capturing the efficacy of Launch Dates & Goals on campaigns started at the present time
-*   The dataset we utilized does not have any data on the outreach of the campaigns, like how many potential backers were targeted, and what kind of resources (like: potential backer email/social media lists, the videos or other marketing material created to explain the campaigns and entice potential backers, outreach methodologies, frequency & quality of outreach efforts) were used to advertise/promote the Kickstarter campaigns. Data on these factors could shed more light on the factors that help campaigns become successful.
+*   The dataset we utilized does not have any data on the outreach of the campaigns, like how many potential backers were targeted, and what kind of resources (like: potential backer email/social media lists, the videos or other marketing material created to explain the campaigns and entice potential backers, outreach methodologies, frequency & quality of outreach efforts) were used to advertise/promote the Kickstarter campaigns. Data on these factors could shed more light on what helps campaigns reach success.
 
 **Other possible tables and/or graphs that we could create to help inform our analysis:**
 
-*   Additional Graphs could include visualizations of data filtered to only include campaigns launched in the US 
-*   Tables and graphs could be filtered to exclude outliers, which may skew the results and taint the analysis
+*   Outcomes based on Launch date for 'Plays' subcategory of Theater
+*   Outcomes based on Launch date for other subcategories
+*   Visualizations of data filtered to only include campaigns launched in the US
+*   Data could be filtered to identify and exclude outliers, which may skew the results and taint the analysis
